@@ -1,0 +1,23 @@
+.div{
+    background-color: aquamarine;
+    color: darkblue;
+    border-radius: 80px ;
+    border: 2px solid red ;
+    text-align: center;
+}
+.pan{
+    background-color: yellow;
+    color: darkblue;
+}
+table{
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+}
+.qizil{
+    background-color: red;
+    color: white;
+}
+.qora{
+    background-color: black;
+    color: white;
+}

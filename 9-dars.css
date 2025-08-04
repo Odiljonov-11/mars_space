@@ -1,0 +1,26 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+    background-color: yellow;
+}
+td{
+    border: 1px solid black;
+}
+.ssk{
+    background-color:red;
+    color: aliceblue;
+}
+caption{
+    background-color: aqua;
+}
+.mkl{
+    background-color: green;
+    color: aliceblue;
+
+}

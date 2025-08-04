@@ -1,0 +1,21 @@
+div{
+    background-color: darkblue;
+    text-align: center;
+}
+.span{
+    color: green;
+}
+table{
+    border: 1px solid orange;
+    border-collapse: collapse;
+    color: white;
+}
+tr{
+    border: 1px solid orange;
+}
+td{
+    border: 1px solid orange;
+}
+th{
+    border: 1px solid orange;
+}
